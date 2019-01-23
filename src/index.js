@@ -41,6 +41,27 @@ const unitMap = {
   'mether':       '1000000000000000000000000', // eslint-disable-line
   'gether':       '1000000000000000000000000000', // eslint-disable-line
   'tether':       '1000000000000000000000000000000', // eslint-disable-line
+  '0':            '1', // eslint-disable-line
+  '1':            '10', // eslint-disable-line
+  '2':            '100', // eslint-disable-line
+  '3':            '1000', // eslint-disable-line
+  '4':            '10000', // eslint-disable-line
+  '5':            '100000', // eslint-disable-line
+  '6':            '1000000', // eslint-disable-line
+  '7':            '10000000', // eslint-disable-line
+  '8':            '100000000', // eslint-disable-line
+  '9':            '1000000000', // eslint-disable-line
+  '10':           '10000000000', // eslint-disable-line
+  '11':           '100000000000', // eslint-disable-line
+  '12':           '1000000000000', // eslint-disable-line
+  '13':           '10000000000000', // eslint-disable-line
+  '14':           '100000000000000', // eslint-disable-line
+  '15':           '1000000000000000', // eslint-disable-line
+  '16':           '10000000000000000', // eslint-disable-line
+  '17':           '100000000000000000', // eslint-disable-line
+  '18':           '1000000000000000000', // eslint-disable-line
+  '19':           '10000000000000000000', // eslint-disable-line
+  '20':           '100000000000000000000', // eslint-disable-line
 };
 
 /**

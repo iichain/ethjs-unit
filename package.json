@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "start": "npm test",
-    "release": "npmpub",
+    "release": "npm pub",
     "pretest": "npm run lint",
     "prepublish": "npm run build",
     "prebuild": "npm run build:clean && npm run test",
